@@ -5,7 +5,6 @@ terraform {
     container_name       = "terraformstroagecontainter"
     ASSIGNEE="40f16ccb-0ebe-45ac-a8af-d257fc178f83"
     key                  = "dev.terraform.tfstate"
-
     use_azuread_auth = true
   }
 }
