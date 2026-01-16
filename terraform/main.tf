@@ -1,8 +1,8 @@
 terraform {
   backend "azurerm" {
-    resource_group_name  = "TerraformDemo"
-    storage_account_name = "terraformcodeops"
-    container_name       = "tfstatefile"
+    resource_group_name  = "Terrafrom-ResGrp"
+    storage_account_name = "terraformmysvkstroage"
+    container_name       = "terraformstroagecontainter"
     key                  = "dev.terraform.tfstate"
   }
 }
