@@ -1,3 +1,3 @@
-rgname   = "gh-action"
+rgname   = "RGGHAction"
 location = "East US"
-sname    = "devopssvk"
+sname    = "staDev"
