@@ -3,7 +3,6 @@ terraform {
     resource_group_name  = "Terrafrom-ResGrp"
     storage_account_name = "terraformmysvkstroage"
     container_name       = "terraformstroagecontainter"
-    ASSIGNEE="e9aacc59-86d2-49fe-94fa-e7c77be530fd"
     key                  = "dev.terraform.tfstate"
   }
 }
